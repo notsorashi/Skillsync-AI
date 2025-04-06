@@ -89,8 +89,8 @@ npm run dev
 ![Resume Upload](/images/resume analysis.png)
 
 ### 🔐 Authentication Page
-![Authentication](/images/Sign-in.png)
-![Authentication](/images/Sign-up.png)
+![Authentication](/images/ Sign-in.png)
+![Authentication](/images/ Sign-up.png)
 
 ### MOCK INTERVIEW
 ![Mock interview](/images/Mock interview.png)
