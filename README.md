@@ -83,17 +83,20 @@ npm run dev
 📁 All screenshots are stored in the `public/images` folder.
 
 ### 🏠 Landing Page
-![Landing Page](/images/landing page.png)
+![Landing Page](images/landing page.png)
 
 ### 📤 Resume Upload Page
-![Resume Upload](/images/resume analysis.png)
+![Resume Upload](images/resume analysis.png)
 
 ### 🔐 Authentication Page
-![Authentication](/images/ Sign-in.png)
-![Authentication](/images/ Sign-up.png)
+![Authentication](images/ Sign-in.png)
+![Authentication](images/ Sign-up.png)
 
 ### MOCK INTERVIEW
-![Mock interview](/images/Mock interview.png)
+![Mock interview](images/Mock interview.png)
+
+### Dashboard
+![Dashboard](images/Dashboard.png)
  
 
 ## Contributing
