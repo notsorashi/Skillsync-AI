@@ -80,7 +80,7 @@ npm run dev
 
 ## Screenshots
 - Landing page: The landing page provides a sleek, modern introduction to SkillSync AI. It highlights key features like resume analysis, AI job matching, and secure authentication—all presented with a clean and responsive design.
-  ![Landing Page] (public/Landing page.png)
+  ![Landing Page] 
 
 ## Contributing
 
