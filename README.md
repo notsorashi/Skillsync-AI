@@ -78,9 +78,23 @@ npm run dev
 - [NeonDB](https://neon.tech) - Database
 - [Vercel](https://vercel.com) - Deployment
 
-## Screenshots
-- Landing page: The landing page provides a sleek, modern introduction to SkillSync AI. It highlights key features like resume analysis, AI job matching, and secure authentication—all presented with a clean and responsive design.
-  ![Landing Page] 
+## 🖼️ Screenshots
+
+📁 All screenshots are stored in the `public/images` folder.
+
+### 🏠 Landing Page
+![Landing Page](/images/landing page.png)
+
+### 📤 Resume Upload Page
+![Resume Upload](/images/resume analysis.png)
+
+### 🔐 Authentication Page
+![Authentication](/images/Sign-in.png)
+![Authentication](/images/Sign-up.png)
+
+### MOCK INTERVIEW
+![Mock interview](/images/Mock interview.png)
+ 
 
 ## Contributing
 
