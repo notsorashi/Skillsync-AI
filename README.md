@@ -83,20 +83,26 @@ npm run dev
 📁 All screenshots are stored in the `public/images` folder.
 
 ### 🏠 Landing Page
-![Landing Page](images/landing page.png)
+![Landing Page](https://github.com/user-attachments/assets/e30f251b-26b1-4617-8a2e-aa6ebd75c0a5)
+ page.png)
 
 ### 📤 Resume Upload Page
-![Resume Upload](images/resume analysis.png)
+![Resume Upload](https://github.com/user-attachments/assets/3ab7a6eb-d4aa-4c2a-aef9-b8db06d9e6a9)
+es/resume analysis.png)
 
 ### 🔐 Authentication Page
-![Authentication](images/ Sign-in.png)
-![Authentication](images/ Sign-up.png)
+![Authentication]![Sign-in](https://github.com/user-attachments/assets/4621f5b9-e8d4-400f-8a31-72c0618e14c5)
+
+![Authentication][Sign-up](https://github.com/user-attachments/assets/4614f4c4-3aee-41c9-97a6-1e049595b499)
+
 
 ### MOCK INTERVIEW
-![Mock interview](images/Mock interview.png)
+![Mock interview]![Mock interview](https://github.com/user-attachments/assets/08fb9ac2-6a2a-4035-b3bd-4051ee8acda7)
+
 
 ### Dashboard
-![Dashboard](images/ dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/0e175edb-49ef-436f-a3bc-9d2250ac4ac9)
+
  
 
 ## Contributing
