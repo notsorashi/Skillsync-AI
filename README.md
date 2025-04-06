@@ -96,7 +96,7 @@ npm run dev
 ![Mock interview](images/Mock interview.png)
 
 ### Dashboard
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/ dashboard.png)
  
 
 ## Contributing
