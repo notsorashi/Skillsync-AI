@@ -1,15 +1,15 @@
 # SkillSync AI
 
-SkillSync AI is a cutting-edge, AI-powered resume analysis and job-matching platform built using Next.js. It leverages the power of Gemini AI Vision to intelligently parse resumes and provide highly relevant job recommendations, ensuring a smarter and faster job hunt.
+SkillSync AI is a mock interview and resume analysis platform powered by Gemini AI, built using Next.js. It simulates real interview experiences by generating tailored mock interview questions based on your resume and desired job role. The platform also intelligently analyzes resumes to provide actionable feedback, helping users improve their profiles and boost interview readiness—all in one smart, AI-driven interface.
 
 ## Features
 
-- 🤖 AI-Powered Resume Analysis using Gemini AI Vision
-- 🎯 Smart Job Matching based on skills, experience, and preferences
+- 🤖 AI-Powered Resume Analysis using Gemini AI Vision for intelligent insights and suggestions
+- 🗣️ Mock Interview Generator with role-specific questions powered by Gemini AI
 - 🔐 Secure User Authentication with Clerk
-- 💻 Modern, Responsive UI powered by Tailwind CSS
-- 🛢️ Database Integration using NeonDB
-- 🌐 Ready for Deployment on Vercel
+- 💻 Modern & Responsive UI crafted with Tailwind CSS
+- 🛢️ Scalable Database Integration using NeonDB
+- 🌐 Seamless Deployment optimized for Vercel
 
 ## Getting Started
 
