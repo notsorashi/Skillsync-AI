@@ -84,11 +84,11 @@ npm run dev
 
 ### 🏠 Landing Page
 ![Landing Page](https://github.com/user-attachments/assets/e30f251b-26b1-4617-8a2e-aa6ebd75c0a5)
- page.png)
+
 
 ### 📤 Resume Upload Page
 ![Resume Upload](https://github.com/user-attachments/assets/3ab7a6eb-d4aa-4c2a-aef9-b8db06d9e6a9)
-es/resume analysis.png)
+
 
 ### 🔐 Authentication Page
 ![Authentication]![Sign-in](https://github.com/user-attachments/assets/4621f5b9-e8d4-400f-8a31-72c0618e14c5)
